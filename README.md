@@ -58,3 +58,6 @@ Getting Started
 3.  Start the application:
 
 `npm start`
+
+
+Feel free to contribute
