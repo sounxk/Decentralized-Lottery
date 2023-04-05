@@ -2,7 +2,7 @@
 Lottaree
 =====================================
 
-This project is a full-stack lottery application built with React and the Ethereum blockchain. The application allows users to participate in a lottery by purchasing tickets with Ether. The lottery contract is deployed on the Ethereum network and uses smart contracts to manage the lottery process.
+This project is a full-stack lottery application built with React and the Ethereum blockchain. The application allows users to participate in a lottery by purchasing tickets with Ether. The lottery contract is deployed on the Ethereum network and uses smart contracts to manage the lottery.
 
 Technologies Used
 -----------------
